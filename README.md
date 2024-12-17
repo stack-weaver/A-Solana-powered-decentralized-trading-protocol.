@@ -1,14 +1,3 @@
-# Build a Decentralized Voting Dapp with Next.js, TypeScript, Tailwind CSS, and CometChat
+# drift
 
-## Technology
-
-This demo uses:
-
-- Metamask
-- Hardhat
-- Infuria
-- ReactJs
-- Tailwind CSS
-- Solidity
-- EthersJs
-- Faucet
+A Solana-powered decentralized trading protocol.
