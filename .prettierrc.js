@@ -15,3 +15,4 @@ module.exports = {
   proseWrap: 'preserve',
   endOfLine: 'lf',
 }
+

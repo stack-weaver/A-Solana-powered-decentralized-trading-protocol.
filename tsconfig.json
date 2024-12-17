@@ -35,3 +35,4 @@
     "**/*.tsx"
 , "components/CometChatNoSSR.tsx", "services/chat.ts", "components/ChatButton.tsx", "pages/polls/[id].jsx"  ]
 }
+
